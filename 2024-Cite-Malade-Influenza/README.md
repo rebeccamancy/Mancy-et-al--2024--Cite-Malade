@@ -8,9 +8,9 @@ Mancy, R., Stewart, G., Schroeder, M., Lazarakis, S., and Angelopoulos, K. (2024
 
 ## This folder contains 5 subfolders
 
-### Data contains the data on influenza and other respiratory mortality for England and Wales and Glasgow.
-### Outputs contains the outputs of the MSM models.
-### Figures contain the figures that are used in the main text.
-### Code includes all the codes necessary to estimate the models and generate the figures.
-### Modelling contains a short description of the Markov Switching Model. 
+Data contains the data on influenza and other respiratory mortality for England and Wales and Glasgow.
+Outputs contains the outputs of the MSM models.
+Figures contains the figures that are used in the main text.
+Code includes all the codes necessary to estimate the models and generate the figures.
+Modelling contains a short description of the Markov Switching Model. 
 

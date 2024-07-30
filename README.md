@@ -4,3 +4,6 @@ Mancy, R., Stewart, G., Schroeder, M., Lazarakis, S., and Angelopoulos, K. (2024
 
 # Files included and file structure
 Two folders of data and analysis code are included: one for the influenza analysis, and one for the smallpox analysis. The file "Full MOH References for Chapter.docx" provides full references for all Medical Officer of Health reports cited in the main text of the book chapter.
+
+# Note on system files
+If downloading this set of code from Zenodo, a number of MacOS and Github system files are included. Please ignore all files/folders starting with an underscore "_" or full stop "."
